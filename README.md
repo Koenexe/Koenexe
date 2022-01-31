@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Koen 
+- 👀 I’m interested in developing thats why i am here
+- 🌱 I’m currently learning HTML JS and CSS
